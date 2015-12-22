@@ -422,6 +422,17 @@
           <command>"firefox"</command>
         </action>
       </keybind>
+
+      <keybind key="o">
+        <action name="ShowMenu">
+					<menu>root-menu</menu>
+					<position>
+						<x>center</x>
+						<y>center</y>
+					</position>
+        </action>
+      </keybind>
+
     </keybind>
   </keyboard>
   <mouse>
